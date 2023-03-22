@@ -1,0 +1,32 @@
+#multiple-images-field-add-button {
+	margin: 12px 0 0;
+}
+
+#multiple-images-field-box {
+	margin: 12px 0 0;
+	overflow: hidden;
+}
+
+.multiple-images-field-item,
+.multiple-images-field-item-placeholder {
+	float: left;
+	border: 1px dashed #fff;
+}
+
+.multiple-images-field-item-placeholder {
+	border-color: #aaa;
+}
+
+.multiple-images-field-item img {
+	max-width: 80px;
+	height: auto;
+	cursor: move;
+}
+
+.multiple-images-field-delete-button button {
+	width: 100%;
+}
+
+#multiple-images-field-wrap p {
+	margin-bottom: 1px !important;
+}
