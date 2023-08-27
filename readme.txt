@@ -29,6 +29,12 @@ Refer to the following help page for the use of functions.
 2. Activate this plugin from "Plugin" menu.
 3. Select "Multiple Image Field" from "setting" menu and make the necessary settings.
 
+== Screenshots ==
+
+1. Posts Page
+2. Settings Page
+3. Add the above PHP code to the theme template.
+
 == Changelog ==
 
 = 1.0 =
